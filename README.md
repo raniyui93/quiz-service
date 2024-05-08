@@ -14,7 +14,6 @@ Technologies used
 * [Java 8](https://adoptopenjdk.net/)
 * [Maven 3](https://maven.apache.org/download.cgi)
 * [Docker](https://www.docker.com/products/docker-desktop)
-* [Docker-Compose](https://docs.docker.com/compose/install/)
 
 ## Build & Installation Instructions
 

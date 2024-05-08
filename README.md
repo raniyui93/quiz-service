@@ -36,7 +36,7 @@ mvn clean install
 ```
 4. After the build is successful, create the DB
 ```
-docker run --name mysql -e MYSQL_ROOT_PASSWORD=my-secret-pw -e MYSQL_DATABASE=QuizQuestions-p 3306:3306 -d mysql:5
+docker run --name mysql -e MYSQL_ROOT_PASSWORD=my-secret-pw -e MYSQL_DATABASE=Quiz -p 3306:3306 -d mysql:5
 ```
 5. Verify the health of the spring boot application using the browser
 

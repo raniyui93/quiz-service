@@ -28,7 +28,6 @@ git clone git@github.com:raniyui93/quiz-service.git
 java -version
 mvn -v
 docker version
-docker-compose version
 ```` 
 
 3. Perform Maven Build to generate the maven artifact JAR File

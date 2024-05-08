@@ -7,7 +7,6 @@ Technologies used
 * **Java**
 * **SpringBoot**
 * **Junit**
-* **Swagger**
 * **Docker**
 
 **Prerequisites:**
